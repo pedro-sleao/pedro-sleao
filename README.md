@@ -6,6 +6,8 @@
 
 - ⚡ I like to learn new things and solve some challenges. 
 
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroca242&show_icons=true&theme=radical)
 
 <!---
