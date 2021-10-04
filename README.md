@@ -6,7 +6,7 @@
 
 - ⚡ I like to learn new things and solve some challenges. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroca242&show_icons=true&theme=radical)
 
 <!---
 Pedroca242/Pedroca242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
