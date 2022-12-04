@@ -2,7 +2,7 @@
 
 - 👀 I’m a Electronic Engineering student at UFPE.
 
-- 🌱 I’m currently learning Python and starting to learn Javascript, git and github.
+- 🌱 I’m currently learning Machine Learning and starting to learn git and github.
 
 - ⚡ I like to learn new things and solve some challenges. 
 
